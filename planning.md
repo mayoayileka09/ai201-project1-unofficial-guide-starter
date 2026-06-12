@@ -20,18 +20,19 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | College Dorm Reviews | Crowdsourced student reviews of 6,500+ dorms across 1,400 schools, rated on size, bathrooms, noise, and party scene | https://collegedormreviews.com |
+| 2 | The Daily Pennsylvanian | Penn upperclassmen give blunt do's and don'ts to incoming freshmen (hide your food, do laundry early, befriend your hall) | https://www.thedp.com/article/2016/06/new-student-issue-tips-dorm-living |
+| 3 | College Confidential | Long thread weighing random vs. self-chosen roommates, with real outcomes from students and parents | https://talk.collegeconfidential.com/t/random-roommate-vs-choosing-roommate/1811434 |
+| 4 | College Confidential | Single vs. roommate debate — students candidly weigh privacy against the social/"college experience" tradeoff | https://talk.collegeconfidential.com/t/single-vs-roommate-freshman-year/125580 |
+| 5 | AnandTech Forums | Crowd-built list of what to actually bring to a freshman dorm, including overlooked items and roommate coordination tips | https://forums.anandtech.com/threads/things-that-must-be-brought-into-a-freshman-dorm.196580/ |
+| 6 | AnandTech Forums | Unfiltered roommate war stories and success stories across multiple years of dorm living | https://forums.anandtech.com/threads/roommates-in-college.833171/ |
+| 7 | Amherst Student Blog | Honest one-year-later reflection on what gear got used (noise-canceling headphones, shower slides, command hooks) vs. what stayed in the closet | https://admissionstudentblogs.wordpress.amherst.edu/?p=2911 |
+| 8 | Purdue Ambassador Blog | First-person survival advice on roommate communication, shower caddies, and finding study spots outside your room | https://ag.purdue.edu/agry/ambassadorblog/dorm-life-advice |
+| 9 | Grown and Flown | Ithaca student's seven things she wishes she'd known — mattress toppers, burnout, prioritizing your own wellbeing | https://grownandflown.com/student-wishes-she-had-known-before-freshman-year-college/ |
+| 10 | In The Know / AOL | Roundup of viral TikTok freshman roommate experiences — real red flags and what made some pairings work | https://www.aol.com/lifestyle/college-students-compare-freshman-dorm-183712927.html |
 
 ---
+
 
 ## Chunking Strategy
 
