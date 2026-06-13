@@ -16,5 +16,8 @@ env/
 chroma_db/
 chroma/
 
+# Raw fetched HTML/JSON — re-fetchable archive, not source
+documents/raw/
+
 # macOS
 .DS_Store
