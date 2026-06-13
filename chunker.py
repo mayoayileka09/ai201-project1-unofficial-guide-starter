@@ -1,6 +1,9 @@
 """Stage 2 of the RAG pipeline: chunk the cleaned documents.
 
-Run:  python chunk.py
+Run:  python chunker.py
+
+(Named chunker.py rather than chunk.py to avoid shadowing Python's stdlib
+`chunk` module, which gradio/pydub import indirectly.)
 
 Implements the Chunking Strategy from planning.md:
   - RecursiveCharacterTextSplitter (LangChain)

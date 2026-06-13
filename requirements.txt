@@ -8,9 +8,8 @@ requests>=2.32.0                  # fetching web sources
 beautifulsoup4>=4.12.0            # HTML extraction / cleaning
 langchain-text-splitters>=0.3.0   # RecursiveCharacterTextSplitter
 
-# Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
-# streamlit>=1.40.0
+# Query interface (Milestone 5)
+gradio>=4.0          # 4.44.1 is the newest Gradio that supports Python 3.9
 
 # Document ingestion — add if your documents/ folder contains .pdf files:
 # pdfplumber==0.11.4
