@@ -81,6 +81,7 @@ def main():
         label, url, body = parse_doc(path)
         name = os.path.splitext(os.path.basename(path))[0]
         pieces = splitter.split_text(body)
+        pieces = [p for p in pieces if p.strip()]   # guard: drop empty/whitespace chunks
         per_source.append((name, len(pieces)))
         for i, piece in enumerate(pieces):
             all_chunks.append({

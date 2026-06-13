@@ -59,6 +59,7 @@ BOILERPLATE_PATTERNS = [
     r"accept all cookies",
     r"^\[close\]$",                       # leftover modal close button
     r"student loan relief program",       # AOL injected off-topic promo
+    r"please leave a (review|comment)",   # CollegeDormReviews site call-to-action
 ]
 BOILERPLATE_RE = [re.compile(p, re.IGNORECASE) for p in BOILERPLATE_PATTERNS]
 
